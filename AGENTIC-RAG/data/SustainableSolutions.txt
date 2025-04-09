@@ -1,0 +1,607 @@
+Recent Articles on Sustainable solutions provided by top Software makers:
+   
+From https://www.microsoft.com/en-us/corporate-responsibility/sustainability
+Microsoft's 2024 Environmental Sustainability Report:
+Accelerating innovation
+and partnership for people
+and the planet
+Brad Smith
+Vice Chair and President
+Melanie Nakagawa
+Chief Sustainability Officer
+Four years ago, Microsoft committed that by
+2030 we would become carbon negative, water
+positive, zero waste, and protect more land than
+we use. Since that announcement, we have seen
+major changes both in the technology sector and
+in our understanding of what it will take to meet
+our climate goals. New technologies, including
+generative AI, hold promise for new innovations that
+can help address the climate crisis. At the same time,
+the infrastructure and electricity needed for these
+technologies create new challenges for meeting
+sustainability commitments across the tech sector.
+As we take stock as a company in 2024, we remain
+resolute in our commitment to meet our climate
+goals and to empower others with the technology
+needed to build a more sustainable future.
+“ There is no issue today that
+connects everyone on the
+planet more than the issues
+around climate change.”
+At the end of last year, the world met in Dubai at
+COP28 to assess global sustainability progress.
+The results were sobering. The world is not on
+track to meet critical climate goals, and we see
+many of the world’s challenges reflected in our
+own situation. During the past four years, we have
+overcome multiple bottlenecks and have accelerated
+progress in meaningful ways. As we report here, we
+are on track in several areas. But not in every area.
+We therefore are mobilizing to accelerate progress in
+areas where we’re not yet on track.
+In four areas we are on track, and in each of these
+we see progress that has the potential to have
+global impact beyond our own sustainability work.
+These are:
+Reducing our direct operational emissions
+(Scope 1 and 2).
+Accelerating carbon removal.
+Designing for circularity to minimize waste and
+reusing cloud hardware.
+ Improving biodiversity and protecting more land
+than we use.
+At the same time, there are two areas where we’re
+not yet on track, and in each of these we are
+intensively engaged in work to identify and pursue
+additional breakthroughs. These are:
+Reducing our Scope 3, or indirect, emissions.
+ Reducing water use and replenishing more water
+than we consume in our datacenter operations.
+Even amid the challenges, we remain optimistic.
+We’re encouraged by ongoing progress across our
+campuses and datacenters, and throughout our
+value chain. Even more, we’re inspired by the scores
+of executives and employees across Microsoft who
+are rolling up their sleeves and identifying new and
+innovative steps that are helping us to close critical
+gaps. We all recognize the same thing: there is no
+issue today that connects everyone on the planet
+more than the issues around climate change. We all
+need to succeed together.
+Carbon negative
+Our carbon negative commitment includes
+three primary areas: reducing carbon emissions,
+increasing use of carbon-free electricity, and
+carbon removal. We made meaningful progress
+on carbon-free electricity and carbon removal in
+FY23. Microsoft has taken a first-mover approach to
+supporting carbon-free electricity infrastructure,
+making long-term investments to bring more carbonfree electricity onto the grids where we operate.
+
+
+
+Foreword continued
+In 2023, we increased our contracted portfolio of
+renewable energy assets to more than 19.8 gigawatts
+(GW), including projects in 21 countries. In FY23,
+we also contracted 5,015,019 metric tons of carbon
+removal to be retired over the next 15 years. We are
+continuing to build a portfolio of projects, balanced
+across low, medium, and high durability solutions.
+Carbon reduction continues to be an area of
+focus, especially as we work to address Scope
+3 emissions. In 2023, we saw our Scope 1 and 2
+emissions decrease by 6.3% from our 2020 baseline.
+This area remains on track to meet our goals. But our
+indirect emissions (Scope 3) increased by 30.9%.
+In aggregate, across all Scopes 1–3, Microsoft’s
+emissions are up 29.1% from the 2020 baseline.
+The rise in our Scope 3 emissions primarily comes
+from the construction of more datacenters and
+the associated embodied carbon in building
+materials, as well as hardware components such as
+semiconductors, servers, and racks. Our challenges
+are in part unique to our position as a leading cloud
+supplier that is expanding its datacenters. But even
+more, we reflect the challenges the world must
+overcome to develop and use greener concrete,
+steel, fuels, and chips. These are the biggest drivers
+of our Scope 3 challenges.
+We have launched a company-wide initiative to
+identify and develop the added measures we’ll
+need to reduce our Scope 3 emissions.
+Leaders in every area of the company have stepped
+up to sponsor and drive this work. This led to the
+development of more than 80 discrete and significant
+measures that will help us reduce these emissions—
+including a new requirement for select scale, highvolume suppliers to use 100% carbon-free electricity
+for Microsoft delivered goods and services by 2030.
+As a whole, this work builds on our multi-prong
+strategy, this year focusing on the following:
+1 Improving measurement by harnessing the
+power of digital technology to garner better
+insight and action.
+2 Increasing efficiency by applying datacenter
+innovations that improve efficiency as quickly
+as possible.
+3 Forging partnerships to accelerate technology
+breakthroughs through our investments and AI
+capabilities, including for greener steel, concrete,
+and fuels.
+4 Building markets by using our purchasing
+power to accelerate market demand for these
+types of breakthroughs.
+5 Advocating for public policy changes that will
+accelerate climate advances.
+Water positive
+We take a holistic approach to becoming
+water positive, which includes water access,
+replenishment, innovation, reduction, and policy.
+In 2023, we achieved our water access target by
+providing more than 1.5 million people with access to
+clean water and sanitation solutions. We contracted
+water replenishment projects estimated to provide
+more than 25 million m3
+ in volumetric water benefit
+over the lifetime of these projects—enough water
+to fill about 10,000 Olympic sized swimming pools.
+Finally, we continue to drive innovation in water,
+through first-of-their kind replenishment projects like
+FIDO, which leverages AI-enabled acoustic analysis
+to reduce water loss from leakage.
+Looking ahead, as our datacenter business continues
+to grow, so does the need to minimize our water
+consumption and replenish more than we consume
+in these operations. In FY23 our progress on water
+accelerated, and we know we need to implement
+an even stronger plan to accelerate it further.
+We therefore are investing in our water positive
+commitment in four ways:
+1 We are taking action to reduce the intensity
+with which we withdraw resources by
+continuing to design and innovate in order to
+minimize water use and achieve our
+intensity target.
+2 Our new datacenters are designed and
+optimized to support AI workloads and will
+consume zero water for cooling. This initiative aims
+to further reduce our global reliance on freshwater
+resources as AI compute demands increase.
+3 We are partnering to advance water policy.
+In 2023, we joined the Coalition for Water
+Recycling. Over the coming year we will finalize a
+position and strategy for water policy.
+4 We are developing innovative scalable
+replenishment projects in high water stress
+locations where we operate datacenters.
+We recently announced Water United, a new
+initiative to unite public and private sectors in
+reducing water loss from leakage across the
+Colorado River Basin.
+Zero waste
+Our journey to zero waste includes reducing waste
+at our campuses and datacenters, advancing circular
+cloud hardware and packaging, and improving
+device and packaging circularity. In FY23, we
+achieved a reuse and recycle rate of 89.4% for
+servers and components across all cloud hardware,
+a target that is increasingly important as needs for
+cloud services continue to grow. In 2023, we also
+diverted more than 18,537 metric tons of waste from
+landfills or incinerators across our owned datacenters
+and campuses, and we reduced single-use plastics in
+our Microsoft product packaging to 2.7%.
+Overview 05
+Overview Microsoft sustainability Customer sustainability Global sustainability Appendix 06
+Foreword continued
+From expanding our Circular Centers to piloting
+programs that give a second life to used fiber optic
+cables through partnerships with local technical
+schools, we are working to keep materials in use
+longer and approach our work at every stage with
+circularity in mind. We are accelerating our work to
+reuse and recycle cloud hardware wherever possible,
+and launched two new Circular Centers in Quincy,
+Washington and Chicago, Illinois in 2023.
+Protecting ecosystems
+We have committed to protect more land than
+we use by 2025, while preserving and restoring
+ecosystems in the areas where we live and work.
+As of FY23, we exceeded our land protection target
+by more than 40%. At this point, 15,849 acres of
+land have been legally designated as permanently
+protected compared to our goal of 11,000 acres.
+We are incorporating green business practices
+that support the surrounding ecosystems near
+our campuses and datacenters. This includes
+regenerative design solutions around our datacenters
+that enhance local biodiversity, improved stormwater
+management, and contributing to climate resilience.
+We are also piloting AI-driven Microsoft technology
+to provide insights into the overall health of the
+ecosystem and inform future actions.
+Customer and global sustainability
+In last year’s Environmental Sustainability Report,
+we announced that we were expanding our
+ambition to help advance sustainability for our
+customers and the world. In 2023, we continued
+this work to empower our customers and partners
+on their own sustainability journey by creating the
+technology needed to better manage resources and
+optimize systems. On a global scale, we focused
+on accelerating innovation, research, and policy,
+not only for ourselves but also to support a more
+sustainable world for all.
+The shift from pledges to progress requires action,
+transparency, and accountability. Microsoft Cloud
+for Sustainability is helping customers unify data
+and garner richer insights into the sustainability
+of their business. In 2023, we expanded Microsoft
+Sustainability Manager to include Scopes 1, 2, and
+all 15 categories of Scope 3 carbon emissions to
+help track progress and inform action across an
+organization’s operations and value chains.
+As the world experiences worsening impacts of
+climate change, we are also helping to put planetary
+data into the hands of researchers, governments,
+companies, and individuals through the Planetary
+Computer. We are providing open access to
+petabytes of environmental monitoring data to help
+empower people with actionable information to
+protect their communities.
+Microsoft’s sustainability progress requires global
+engagement. We are investing in innovative
+solutions, advancing research, and advocating
+for policies that we believe can drive progress
+at scale. A hallmark of this effort has been our
+Climate Innovation Fund (CIF)—our $1 billion
+commitment set in 2020 to advance innovation
+beyond Microsoft’s four walls. To date the CIF has
+allocated $761 million toward innovative climate
+technologies1
+ including commercial direct air
+capture technologies, sustainable aviation fuel (SAF),
+industrial decarbonization, and more.
+Our science, research, and AI for Good teams are
+also working to accelerate solutions and develop
+climate resilience with AI. In November 2023, we
+published a whitepaper and playbook that expands
+on the incredible potential of AI for sustainability.
+Through our AI for Good team, we are collaborating
+with the United Nations to research the use of AI
+to advance the Early Warning for All Initiative, with
+a goal of better understanding the populations
+that may be at risk of extreme weather events and
+other threats.
+“The shift from pledges to
+progress requires action,
+transparency, and accountability.”
+Last year, Microsoft CEO Satya Nadella called climate
+change “the defining issue of our generation.” To
+meet this generational challenge, we are putting
+sustainability at the center of our work. With each
+emerging technology, with each new opportunity,
+we ask ourselves an important question: how can we
+advance sustainability?
+As we strive to answer that question, we are
+developing new approaches, experimenting with
+new partnerships, and learning as we go. We are
+optimistic about the role technology can continue
+to play in accelerating climate progress, and we
+look forward to working with others on this critical
+journey for all of us.
+
+From 
+https://sustainability.aboutamazon.com/products-services/aws-cloud
+AWS Cloud
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud offering, with millions of global users depending on it every day. To build a sustainable business for our customers and for the world we all share, we’re designing data centers that provide the efficient, resilient service our customers expect while minimizing our environmental footprint—and theirs.
+Progress
+4.1x
+AWS infrastructure is up to 4.1 times more energy efficient than on-premises and can reduce workloads’ carbon footprintMore info about
+ by up to 99%
+
+A person walks down an aisle in a data center. 
+7B+
+liters of water will be returned each year to local communities through AWS’s water replenishment efforts
+
+An irrigation system mists water on rows of leafy green crops. 
+100%
+of electricity consumed by Amazon was matched with renewable energyMore info about
+ sources in 2023
+
+100%
+
+Our approach
+Our sustainability work includes enhancing energy efficiency, transitioning to carbon-free energy, reducing 
+embodied carbon
+More info about
+, using water responsibly, driving a 
+circular economy
+More info about
+, and enabling sustainability for customers.
+Increasing efficiency
+We focus on efficiency across all aspects of our infrastructure, from the design of our data centers and hardware, to modeling the performance of our operations for continually enhanced efficiency. By continually improving our efficiency, we can reduce the amount of energy needed to operate our data centers.
+An aerial view of an Amazon facility with lights on at night. A person wearing headphones and an AWS sweatshirt examines items in a data center.A person examines large pipes in a utility room. A computer chip sits on a dark table. 
+Power usage effectiveness
+AWS has provided cloud services to customers for nearly 18 years, and continues to innovate to increase efficiency with each generation of our data center designs. As AWS builds new data centers, we seek the optimal balance between energy and water use. The new data center components in AWS data center design are projected to reduce mechanical energy consumption by up to 46%, reduce embodied carbon in the concrete used by 35%, and deliver a power usage effectiveness (PUE) rating to 1.08. PUE is one way we measure the efficiency of our data center operations. A lower PUE indicates a more efficient data center and a PUE score of 1.0 is perfect. AWS calculates PUE using the internationally-recognized principles of the International Organization for Standardization in line with our PUE Methodology.
+
+
+In 2023, AWS data centers had a global PUE of 1.15, and our best performing site was in Europe with a PUE of 1.04. In the Americas, our best performing site has a PUE of 1.05, and in Asia Pacific it is 1.08. These ratings are below the IDC estimated PUE of 1.84 in 2023 for on-premises data centers.
+
+See available regions PUE , opens in a new tab
+Efficiency of scale
+Our scale allows us to achieve higher resource utilization and energy efficiency than the typical 
+on-premises
+More info about
+ data center. A study released by Accenture and AWS estimates running optimized workloads on AWS’s infrastructure is up to 4.1 times more efficient than on-premises and can reduce workloads’ carbon footprint by up to 99%.
+Download How Moving onto The AWS Cloud Reduces Carbon Emissions   , opens in a new tab
+Predicting performance
+We use advanced modeling methods, such as computational fluid dynamics tools, to optimize our data center design. This allows us to understand how a data center will perform before it’s built, enabling us to optimize for higher reliability and energy efficiency in our systems. Once our data centers are operational, real-time, physics-based models allow us to further improve and optimize our designs. We build these custom models using AWS services and weather datasets from the Amazon Sustainability Data Initiative to predict system performance for our sites and track their performance against how they should be operating.
+Cooling efficiency
+Cooling is one of the largest sources of energy usage in our data centers and we’re continually innovating in cooling efficiency. We use different cooling techniques depending on the time of year and use real-time sensor data to adapt to changing weather conditions. We’re also working to optimize the longevity and airflow performance of the cooling equipment used in our data center cooling systems.
+Power efficiency
+One of the most visible ways we’re using innovation to improve power efficiency is our investment in AWS chips.
+Learn more , opens in a new tab
+See how Amazon Web Services is enabling sustainability solutions.
+Visit AWS
+Visit AWS
+, opens in a new tab
+A close-up view from the side of a wind turbine. 
+A person wearing safety equipment stands in front of solar panels. 
+Carbon-free energy
+We're proud that in 2023, we've achieved our goal to match 100% of the electricity consumed across our operations with renewable energy—a commitment we've met seven years ahead of our original 2030 goal.
+Explore carbon-free energy
+Explore carbon-free energy
+Rows of solar panels in a desert climate. 
+Renewable energy
+We procure renewable power from utility-scale wind and solar projects that add new sources of carbon-free energy to the grid. These new renewable energy projects support hundreds of jobs while providing hundreds of millions of dollars of investment in local communities. We may support these grids through the purchase of environmental attributes, like 
+Renewable Energy Certificates
+More info about
+ and Guarantees of Origin, in line with our Renewable Energy Methodology.
+
+ 
+
+Amazon’s energy supply from utilities, combined with the renewable energy we procure across the U.S., means that 100% of the electricity consumed by 22 AWS data center regions is matched by renewable energy sources.
+
+View all regions 
+Reducing embodied carbon
+We’re focused on reducing the indirect emissions associated with building AWS data centers and the manufacturing of our hardware.
+
+
+1
+3
+Lower-carbon concrete and steel
+We’re working to reduce the embodied carbon of materials like concrete and steel, which are used to build our data centers. Embodied carbon is emitted during the extraction, manufacturing, and transportation of materials to construction sites. In 2023, AWS built 36 data centers with lower-carbon concrete and 31 data centers with lower-carbon steel.
+Concrete and steel beam infrastructure set with blue sky in the background. 
+A person wheels a box of computer equipment down rows of server hardware. 
+An ambiguous image of bubbles on a yellow surface. 
+Prioritizing a circular economy
+AWS embraces circular economy principles for its server racks by designing reusable and lower-carbon rack systems from the outset. In addition, AWS works to keep equipment operating efficiently and to recover value from securely decommissioned equipment through reuse, repair, and recycling. By working to maximize resource value for as long as possible, AWS reduces waste generation from its global operations, decreases the use of 
+raw materials
+More info about
+, and reduces carbon emissions across its 
+supply chain
+More info about
+. As a result, in 2023, 14.6 million hardware components were diverted from landfills by being recycled or sold into the secondary market for reuse.
+
+Design better
+
+
+
+Operate longer
+
+
+
+Recover more
+
+
+
+
+Committed to being water positive
+At Amazon, we know that water is a precious resource. AWS is committed to being 
+water positive
+More info about
+ by 2030 and making more water available to the communities where we operate.
+
+
+From https://sustainability.google/
+A more sustainable future through information and innovation.
+Since our earliest days, we’ve been on an ambitious journey to help build a more sustainable future.
+
+Through our products, we aim to empower individuals, cities, and partners to collectively reduce 1 gigaton of their carbon equivalent emissions annually by 2030. For ourselves, we have a bold goal to reach net-zero emissions across all of our operations and value chain, which includes running on 24/7 carbon-free energy (CFE)9 on every grid where we operate.
+
+A sustainable future requires systems-level change, strong government policies, and new technologies. We know that AI has the potential to help solve some of climate’s biggest challenges. Scaling AI and using it to accelerate climate action will be just as crucial as addressing the environmental impact associated with it.
+
+We’re committed to collaboration and playing our part, every step of the way.
+
+The Rødby Fjord solar project adds carbon-free energy to the grid that powers our data center in Fredericia, Denmark
+The Rødby Fjord solar project adds carbon-free energy to the grid that powers our data center in Fredericia, Denmark
+An aerial view of an industrial facility at dusk, with bright yellow and orange lights illuminating buildings and piping against a bare dirt ground.
+Google’s next-generation geothermal site in Nevada, in collaboration with clean-energy startup Fervo
+AI for sustainability
+At Google, we have a unique opportunity to help lead the transition to a more sustainable future by using AI to make climate information more accessible and understandable, and to drive innovation forward.
+
+
+Bold
+We’re using AI to boldly accelerate the research and design of potential climate change solutions to mitigate, adapt, and build foundational capabilities for the transition to a decarbonized world.
+
+Learn more
+
+Responsible
+We’re committed to developing AI responsibly and working to address the environmental impact associated with it.
+
+Learn more
+
+Together
+We believe that all of us—policymakers, industry leaders, and civil society—must work together to responsibly harness AI’s potential for climate action and ensure it benefits everyone.
+
+Learn more
+Every action counts
+If we work together, there’s no limit to what we can do to help individuals, communities, and businesses mitigate and adapt to climate change.
+
+A couple charges their electric vehicle at a charging station with trees in the background.
+
+Discover ways to take action
+See how our products can help you make more sustainable choices.
+
+Learn more
+
+Support your organization
+Get the information you need to make thoughtful decisions around reducing your organization’s emissions and achieving your sustainability goals.
+
+Learn more
+
+See what we’re doing
+Learn how we’re driving innovation in climate and clean energy through our own operations.
+
+Learn more
+Working together toward 1 GT
+Through our products, we aim to help individuals, cities, and other partners collectively reduce 1 gigaton of their carbon equivalent emissions annually by 2030.
+
+Man wearing a backpack and helmet riding a bicycle
+
+Google Maps
+
+Choose the most fuel-efficient route
+Learn more
+
+Google Shopping
+
+Shop for more efficient appliances for your home
+Learn more
+
+Google Flights
+
+Find a flight with lower per-traveler carbon emissions
+Learn more
+
+Google Nest
+
+Make an impact right from home
+Learn more
+
+Google Earth Engine
+
+Explore earth science data analysis at a planetary scale
+Learn more
+
+Environmental Insights Explorer
+
+Build a resilient, sustainable future for your city or region
+Learn more
+Creating sustainable impact at scale
+See how we’re sharing the innovations we create and the lessons we learn to help accelerate the global transition to a carbon-free future.
+
+Learn more
+Net-zero carbon
+Water stewardship
+Circular economy
+Nature & biodiversity
+Solar panels being installed at the solar project that powers our data center in Fredericia, Denmark
+Solar panels being installed at the solar project that powers our data center in Fredericia, Denmark
+Pursuing net-zero emissions through technology and innovation
+We use energy to power our products and to run our operations, including our data centers and offices. For our third decade of climate action, we’re pursuing net-zero emissions across our operations and value chain by 2030.7 This is supported by our ambitious clean energy goal to operate our data centers and office campuses on 24/7 carbon-free energy, such as solar and wind.9
+Learn More
+An illustration of a house and a solar power plant among trees and plants.
+How we’re helping everyone benefit from the transition to clean energy
+A sustainable future means decarbonizing the electricity grid for everyone.
+
+View story
+A photograph of offshore wind farms
+Aiming to get closer to a carbon-free future: Our largest offshore wind projects to date
+With our latest power purchase agreements, we’re adding over 700 megawatts of clean energy capacity to European grids.
+
+View story
+A graphic showing carbon-free energy technologies against a green landscape.
+A new initiative with Microsoft and Nucor to accelerate advanced clean electricity technologies
+We’re developing a new demand aggregation model to help bring first-of-its-kind commercial projects to the market.
+
+View story
+Cover image of a white paper titled: The Corporate Role in Accelerating Advanced Clean Electricity Technologies
+The Corporate Role in Accelerating Advanced Clean Electricity Technologies
+How companies can play a catalytic role by directing some of their clean energy purchases and investments to support the commercialization of these technologies.
+
+View report
+View of Google's Bay View campus at dusk
+Bay View, an all-electric, net water positive campus with the largest geothermal installation in North America, and the first campus designed by Google. Photo by Iwan Baanis
+Advancing water stewardship
+We use water to help cool our data centers, and in our offices around the world. We strive to be responsible stewards of every resource we use, including water.
+
+We aim to replenish 120% of the freshwater8 volume we consume, on average, across our offices and data centers by 2030, and to help restore and improve the quality of water and health of ecosystems in the communities where we operate.
+
+Learn more
+Multiple satellite images of earth showing the effects of climate change on different aspects of the natural world.
+Learn about freshwater on World Water Day
+A new “Freshwater” hub has launched to explore some of the ways we can take action to preserve the most important resource for life on our blue planet.
+
+View story
+The Tuolumne and San Joaquin Rivers in California
+How we’re supporting our commitment to water stewardship
+A look at four innovative initiatives that support water security in communities where we operate.
+
+View story
+Passage of Water project video
+Discover the link between climate change and freshwater availability
+Making up only 3.5% of Earth’s total water volume, freshwater is increasingly impacted by human activity, from climate change to unsustainable over-use.
+
+View story
+Image inside of a data center
+Our commitment to climate-conscious data center cooling
+We take a climate-conscious approach to cooling our data centers as we continue to deliver on our commitments to champion responsible water use and operate on 24/7 carbon-free energy9 by 2030.
+
+View story
+Pixel + Nest products which include the Nest Doorbell, Nest Wifi Pro, Pixel 7, and Pixel Watch
+Accelerating a circular economy
+Our work toward a more circular economy cuts across all our core business operations including our data centers, workplaces, and consumer hardware products, and spans the entire value chain from safer chemistry and manufacturing waste to electronic waste recycling and eliminating single-use plastics.
+
+We aim to maximize the reuse of finite resources across our operations, products, and supply chains and enable others to do the same.
+
+Learn more
+A gloved hand reaches for a plastic water bottle lying on a beach.
+7 ways we’re helping to reduce plastic pollution
+We’re making it easier to find recycling locations, shop for pre-owned items, create efficient waste management processes, and more.
+
+View story
+[home-page]_image2_xYhzegw.webp
+How Recykal aims to build Asia’s largest circular economy marketplace using Google AI
+Recykal’s 500-strong team is rethinking India’s recycling ecosystem. Powered by Google AI, the startup says it has created the fastest-growing waste commerce marketplace in Asia.
+
+View story
+A group photo of the Single-Use Plastics Challenge finalists
+Tackling single-use plastics: How 5 innovative companies rise to the challenge
+The Single-Use Plastics Challenge—hosted in collaboration with Canteen and other food service partners—gave food companies with packaging that is free of single-use plastic the opportunity to test their solutions in Google’s U.S.-based cafés and kitchens.
+
+View story
+Cover image of a white paper titled: Google & Repairability: Full Report
+Google & Repairability
+Learn about Google’s viewpoint on Right to Repair legislation, a short description of Google’s current repair capacities, and how it can advance Google’s overall sustainability efforts.
+
+View report
+A butterfly lands on small white flowers
+Striving to protect and enhance nature and biodiversity through our campuses and technology
+Preserving nature is critical both to mitigating climate change and adapting to it.
+
+With hundreds of offices around the world, Google is mindful of the potential impact on local nature and biodiversity on our campuses and in the surrounding communities and ecosystems. Our aim is for nature and people to flourish together in the spaces that Google calls home.
+
+Learn more
+Dr Emma Spencer and her team reviewing images on an Eyes on Recovery wildlife camera in the Blue Mountains National Park, surrounded by trees and nature
+AI reveals signs of recovery in areas devastated by bushfires
+While many ecosystems are still recovering following Australia’s devastating 2019-20 summer bushfires, we see signs of hope—with the help of AI.
+
+View story
+Colorful illustration of numerous animals in a forest
+Learn about wildlife conservation with Rewild the World
+World Wildlife Fund and Google Arts & Culture partnered together for Rewild the World, a new educational project that brings focus to four threatened species and their habitats: tigers, gorillas, polar bears, and sea turtles.
+
+View story
+An orange and black monarch butterfly rests on a purple flower.
+Helping California’s monarch butterflies: an update
+Our efforts to support this struggling species show promising signs of progress.
+
+View story
+An illustrated map of species found across Google's Bay View and Charleston East campuses, including birds, wasps, butterflies, frogs, foxes, oak trees and willow groves.
+How we’re restoring native habitats in Silicon Valley
+Google’s real estate and ecology teams are working to restore critical habitats like oak woodlands and willow groves across our Bay Area campuses.
+
+View story

@@ -1,0 +1,5 @@
+Software Engineering
+Software engineering is a systematic approach to the development, operation, and maintenance of software. It encompasses requirements gathering, design, coding, testing, and maintenance, with a focus on quality and efficiency.
+
+Retrieval-Augmented Generation (RAG)
+RAG combines the strengths of information retrieval systems with generative AI models. The retrieved data enhances factual grounding, reducing hallucinations in generated outputs.
